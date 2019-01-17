@@ -1,0 +1,59 @@
+<resources>
+    <!--activity main-->
+    <string name="app_name">LoginPageDemo</string>
+    <string name="loginbtn_text">Login</string>
+    <string name="tvinfo__text">No of attempts remaining: </string>
+    <string name="etname__text">Name </string>
+    <string name="etpassword__text">Password </string>
+    <string name="tvForgetpassword__text">Forget Password </string>
+    <string name="signup__text">New User? Sign Up!</string>
+
+    <!--register page-->
+    <string name="Rusername_text">Username</string>
+    <string name="Remail_text">Email</string>
+    <string name="Rpassword_text">Password</string>
+    <string name="Rregisterbtn_text">Register</string>
+    <string name="tvUserLogin_text">Already Signed in? Login</string>
+    <string name="Rage_text">Age</string>
+
+    <!--password page-->
+    <string name="Pemail_text">Email</string>
+    <string name="resetPassword_text">Reset Password</string>
+    <string name="KeyupdatePassword_text">Input new Password</string>
+    <string name="updatePassword_text">Update Password</string>
+
+    <!--profile page-->
+    <string name="ProfileName_text">Name: </string>
+    <string name="ProfileAge_text">Age: </string>
+    <string name="PEmail_text">Email</string>
+    <string name="btnProfileUpdate_text">Edit</string>
+    <string name="btnChangePassword_text">Change Password</string>
+
+    <string name="desc"> </string>
+
+    <!--second page-->
+    <string name="secondpage_text">This is Account Settings</string>
+    <string name="secondpageLogout_text">Logout</string>
+
+    <!--menu -->
+    <string name="MenuLogout_text">Logout</string>
+    <string name="MenuProfile_text">Profile</string>
+    <string name="MenuRefresh_text">Refresh</string>
+
+    <!-- update password-->
+    <string name="UPUpdate_text">Update</string>
+    <string name="UPSave_text">Save</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--<string name="navigation_drawer_open">Open navigation drawer</string>-->
+    <!--<string name="navigation_drawer_close">Close navigation drawer</string>-->
+    <string name="foodName">Food Name</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+    <string name="request">Request!!</string>
+    <string name="expire">Expire Date</string>
+    <string name="tipDesc">This will be description of the post</string>
+
+</resources>

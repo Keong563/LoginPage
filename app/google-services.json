@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "228973802044",
+    "firebase_url": "https://test-6441d.firebaseio.com",
+    "project_id": "test-6441d",
+    "storage_bucket": "test-6441d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228973802044:android:19a4b51d792b23aa",
+        "android_client_info": {
+          "package_name": "com.example.crysis.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228973802044-m8lfjskchqs1ua5dichfn475dui2fqsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnlmmzldRw94-hBHvBX1ZsuKMll397xv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228973802044:android:794f69d14c437eda",
+        "android_client_info": {
+          "package_name": "com.example.crysis.menulogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228973802044-m8lfjskchqs1ua5dichfn475dui2fqsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnlmmzldRw94-hBHvBX1ZsuKMll397xv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
